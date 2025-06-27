@@ -15,4 +15,3 @@ while True:
     print(f"Total expense: {expense.sum()}")
     print(f"Average expense: {expense.sum()/5}")
     print(f"Highest expense: {expense.max()}")
-10
